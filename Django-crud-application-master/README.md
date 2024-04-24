@@ -201,7 +201,6 @@ Access to the Browser
 Access the application by entering localhost:8000/, it will show all the available employee records.
 Initially, there is no record. So, it shows no record message. 
 Well, we have successfully created a CRUD application using Django.
-This complete project can be downloaded here.( https://github.com/diwamishra21/Django-crud-application)
 
 12. Accessing admin panel, for that you have to create a super user using command-
 python manage.py createsuperuser
